@@ -1,0 +1,9 @@
+{
+    "name": "Nguyễn Tiến Đạt",
+    "project": "Dự án Microservices giai đoạn 1 – Migration từ monolith sang microservices",
+    "preference": "Thích cà phê sữa đá khi làm việc, nhưng đã cai vì lý do sức khỏe",
+    "health": "Must avoid caffeine completely for health reasons (đã kiêng cafein hoàn toàn từ tháng 2/2026)",
+    "allergy": "Dị ứng đậu nành (đã được cập nhật từ episodes)",
+    "tech_stack": "Python, FastAPI, PostgreSQL, Docker, Kubernetes (đang học)",
+    "goal": "Hoàn thành MVP microservices vào cuối Q2/2026"
+}

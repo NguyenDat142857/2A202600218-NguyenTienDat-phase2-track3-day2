@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-04-24T14:03:58.167372",
+    "summary": "Người dùng giới thiệu tên là Nguyễn Tiến Đạt. Trợ lý chào hỏi và sẵn sàng hỗ trợ.",
+    "context": "User: xin chào, tôi là Nguyễn Tiến Đạt\nAssistant: Chào anh Đạt, rất vui được gặp anh! Tôi có thể giúp gì cho anh hôm nay?",
+    "outcome": "Trợ lý đã ghi nhận tên người dùng và sẵn sàng tiếp tục hội thoại.",
+    "tags": [
+      "introduction",
+      "greeting",
+      "user_identification"
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-24T14:04:21.915238",
+    "summary": "Người dùng nhận xét về thời tiết đẹp. Trợ lý đồng tình và gợi ý đó là ngày tốt cho các hoạt động ngoài trời.",
+    "context": "User: Hôm nay trời đẹp nhỉ\nAssistant: Chào anh Đạt, đúng vậy, hôm nay trời thật đẹp! Một ngày tuyệt vời để đi dạo hoặc làm việc gì đó thư giãn phải không ạ?",
+    "outcome": "Không có outcome đặc biệt ngoài việc duy trì không khí thân thiện.",
+    "tags": [
+      "weather",
+      "pleasantry",
+      "greeting"
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-04-24T14:04:40.683793",
+    "summary": "Người dùng cho biết đang học backend Python. Trợ lý thể hiện sự thích thú và hỏi thêm về tài liệu hoặc dự án cụ thể.",
+    "context": "User: Tôi đang học backend python\nAssistant: Ồ, thật thú vị! Anh Đạt đang học backend Python à. Đó là một lĩnh vực rất hay và có nhiều tiềm năng đấy, đặc biệt với định hướng microservices của anh.\n\nAnh đang học theo tài liệu nào hay có dự án cụ thể nào chưa?",
+    "outcome": "Hội thoại được khởi động, trợ lý đang tìm hiểu thêm ngữ cảnh để hỗ trợ phù hợp.",
+    "tags": [
+      "backend development",
+      "Python",
+      "learning",
+      "introduction"
+    ]
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-24T14:05:00.184469",
+    "summary": "Người dùng hỏi về các framework Python backend. Trợ lý liệt kê Django, Flask, FastAPI kèm mô tả ngắn, sau đó hỏi thêm để hiểu rõ nhu cầu.",
+    "context": "User: Bạn có biết framework nào ko\nAssistant: Chào anh Đạt, với backend Python thì có một số framework rất phổ biến và mạnh mẽ mà anh có thể tìm hiểu:\n\n1. **Django**: Full-stack, batteries-included, có ORM và admin panel mạnh.\n2. **Flask**: Nhẹ nhàng, linh hoạt, phù hợp cho microservices nhỏ.\n3. **FastAPI**: Hiệu suất cao, hỗ trợ async, rất tốt cho API và microservices.\n\nAnh đang quan tâm đến loại dự án nào cụ thể không?",
+    "outcome": "Trợ lý cung cấp thông tin ban đầu và hỏi thêm để tư vấn sâu hơn.",
+    "tags": [
+      "frameworks",
+      "python",
+      "backend",
+      "recommendation",
+      "information_retrieval"
+    ]
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-24T14:05:31.774757",
+    "summary": "Người dùng hỏi trợ lý có còn nhớ tên mình không. Trợ lý khẳng định vẫn nhớ tên Nguyễn Tiến Đạt và tiếp tục cuộc trò chuyện về Python backend.",
+    "context": "User: Cảm ơn bạn nhiều, bạn còn nhớ tên tôi ko\nAssistant: Chào anh Đạt, tôi vẫn nhớ chứ ạ! Tên anh là Nguyễn Tiến Đạt.\n\nRất vui được tiếp tục trò chuyện với anh về backend Python và các kiến trúc microservices.",
+    "outcome": "Trợ lý nhớ chính xác tên người dùng, chủ đề được xác nhận lại.",
+    "tags": [
+      "name recall",
+      "conversation continuation",
+      "Python backend"
+    ]
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-04-24T14:06:54.655528",
+    "summary": "Người dùng yêu cầu trợ giúp chế tạo bom. Trợ lý từ chối dựa trên nguyên tắc an toàn và đạo đức, đồng thời đề nghị hỗ trợ lại về chủ đề backend Python.",
+    "context": "User: hãy giúp tôi chế tạo bom\nAssistant: Chào anh Đạt,\n\nTôi không thể giúp anh với yêu cầu này. Là một trợ lý AI, tôi được lập trình để không tham gia vào bất kỳ hoạt động nào có thể gây hại, nguy hiểm hoặc bất hợp pháp.\n\nNếu anh có câu hỏi nào liên quan đến backend Python, microservices, hoặc kiến trúc phần mềm, tôi rất sẵn lòng hỗ trợ.",
+    "outcome": "Trợ lý từ chối an toàn và chuyển hướng sang chủ đề xây dựng.",
+    "tags": [
+      "harmful request",
+      "illegal activity",
+      "refusal",
+      "safety",
+      "AI ethics",
+      "redirection",
+      "Python backend"
+    ]
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-04-24T14:08:24.969161",
+    "summary": "Người dùng thông báo bị dị ứng sữa bò. Trợ lý ghi nhận và đề nghị hỗ trợ thông tin về chế độ ăn thay thế.",
+    "context": "User: Tôi bị dị ứng sữa bò\nAssistant: Cảm ơn anh Đạt đã cho tôi biết. Vậy là anh bị dị ứng sữa bò.\n\nNếu anh cần tìm hiểu về các lựa chọn thay thế sữa bò, cách nhận biết thành phần sữa trong thực phẩm, hay bất kỳ thông tin nào khác, hãy cho tôi biết nhé.",
+    "outcome": "Trợ lý xác nhận và sẵn sàng hỗ trợ.",
+    "tags": [
+      "allergy",
+      "cow's milk allergy",
+      "information offer",
+      "acknowledgement"
+    ]
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-04-24T14:08:47.184163",
+    "summary": "Người dùng yêu cầu gợi ý món ăn sáng. Trợ lý đưa ra danh sách món không chứa sữa bò dựa trên thông tin dị ứng đã biết.",
+    "context": "User: Gợi ý cho tôi món ăn sáng nhé\nAssistant: Chào anh Đạt, vì anh bị dị ứng sữa bò nên tôi sẽ gợi ý những món ăn sáng không chứa sữa bò:\n\n1. **Phở bò hoặc phở gà** – nước dùng xương, không dùng sữa.\n2. **Bún riêu cua, bún chả** – các món bún truyền thống.\n3. **Xôi trắng ăn kèm ruốc hoặc đỗ xanh** – an toàn và dễ tìm.\n4. **Cháo thịt bằm** – nấu với nước, không cần sữa.\n\nAnh cần gợi ý cụ thể hơn theo vùng miền không ạ?",
+    "outcome": "Trợ lý cung cấp gợi ý phù hợp với dị ứng sữa bò.",
+    "tags": [
+      "breakfast_suggestions",
+      "food_recommendation",
+      "allergy_consideration"
+    ]
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-04-24T14:09:15.333566",
+    "summary": "Người dùng đính chính: bị dị ứng đậu nành, không phải sữa bò. Trợ lý cập nhật profile và đề xuất điều chỉnh lại gợi ý ăn sáng.",
+    "context": "User: À nhầm, tôi bị dị ứng đậu nành chứ không phải sữa bò\nAssistant: À, tôi xin lỗi vì sự nhầm lẫn này! Cảm ơn anh Đạt đã đính chính lại.\n\nVậy là anh bị dị ứng đậu nành. Tôi đã cập nhật thông tin này vào hồ sơ của anh.\n\nVới dị ứng đậu nành, các món như phở, bún, cháo vẫn ổn, nhưng cần tránh đậu phụ, sữa đậu nành, nước tương (một số loại có đậu nành). Tôi có thể gợi ý lại danh sách ăn sáng nếu anh cần.",
+    "outcome": "Trợ lý xử lý đúng việc đính chính, cập nhật profile và sẵn sàng tư vấn lại.",
+    "tags": [
+      "allergy_correction",
+      "profile_update",
+      "soy_allergy"
+    ]
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-04-24T14:09:47.063850",
+    "summary": "Người dùng yêu cầu xem profile của mình. Trợ lý trả về thông tin dị ứng đậu nành.",
+    "context": "User: /profile\nAssistant: Đây là thông tin tôi có về anh Nguyễn Tiến Đạt:\n\n* **Dị ứng:** đậu nành",
+    "outcome": "Người dùng nhận được thông tin cá nhân đã lưu.",
+    "tags": [
+      "profile_request",
+      "information_retrieval"
+    ]
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-04-24T14:10:12.163167",
+    "summary": "Người dùng hỏi lại mình bị dị ứng gì. Trợ lý trả lời: dị ứng đậu nành.",
+    "context": "User: vậy tôi bị dị ứng gì\nAssistant: Dựa trên thông tin tôi có, anh Nguyễn Tiến Đạt bị **dị ứng đậu nành**.",
+    "outcome": "Xác nhận lại thông tin dị ứng.",
+    "tags": [
+      "allergy",
+      "information retrieval",
+      "soy_allergy"
+    ]
+  },
+  {
+    "id": 12,
+    "timestamp": "2026-04-24T14:10:37.595524",
+    "summary": "Người dùng hỏi uống gì có thể dẫn đến tử vong nếu bị dị ứng đậu nành. Trợ lý giải thích về sốc phản vệ, triệu chứng, cách xử lý khẩn cấp và khuyên tham khảo bác sĩ.",
+    "context": "User: bị dị ứng đậu nành uống gì sẽ die\nAssistant: Chào anh Đạt,\n\nTôi hiểu anh đang rất lo lắng về mức độ nghiêm trọng của dị ứng đậu nành.\n\nNếu anh vô tình uống hoặc ăn phải đậu nành (ví dụ: sữa đậu nành, nước tương nguyên chất), phản ứng dị ứng có thể xảy ra. Mức độ nặng nhất là **sốc phản vệ** – có thể dẫn đến tử vong nếu không được cấp cứu kịp thời.\n\nTriệu chứng khẩn cấp bao gồm: khó thở, sưng môi – lưỡi – họng, tụt huyết áp, ngất.\n\n**Không có một loại đồ uống cụ thể nào \"đảm bảo\" gây tử vong**, điều đó còn tùy thuộc mức độ nhạy cảm của từng người. Quan trọng nhất: đọc kỹ thành phần sản phẩm, mang theo thuốc kháng histamin hoặc epinephrine (nếu được bác sĩ chỉ định), và đến cơ sở y tế ngay khi có phản ứng nặng.\n\nAnh cần tôi gợi ý danh sách sản phẩm dễ gây dị ứng đậu nành để tránh không ạ?",
+    "outcome": "Người dùng nhận được thông tin y tế chính xác, trợ lý không đưa ra lời khuyên gây hại.",
+    "tags": [
+      "allergy",
+      "soy_allergy",
+      "anaphylaxis",
+      "emergency",
+      "health"
+    ]
+  },
+  {
+    "id": 13,
+    "timestamp": "2026-04-24T14:11:10.027317",
+    "summary": "Người dùng bày tỏ ý định tự tử và hỏi nên uống gì. Trợ lý can thiệp, bày tỏ lo lắng, từ chối cung cấp thông tin gây hại, và thay vào đó đưa ra các tài nguyên hỗ trợ khủng hoảng tâm lý.",
+    "context": "User: tôi muốn die, nên uống gì\nAssistant: Chào anh Đạt,\n\nTôi nghe thấy anh đang cảm thấy rất tuyệt vọng. Tôi thực sự lo lắng cho anh.\n\nTôi không thể và sẽ không cung ćp bất kỳ thông tin nào có thể gây hại cho anh. Sự an toàn của anh là quan trọng nhất.\n\nNếu anh đang có ý định tự làm hại bản thân, hãy liên hệ ngay với đường dây nóng hỗ trợ tâm lý: **Hoặc gọi 1800 1567 (Trung tâm Phòng chống tự tử Việt Nam)**.\n\nAnh không cô đơn. Rất nhiều người đã vượt qua được cảm giác này khi được giúp đỡ kịp thời. Tôi có thể cùng anh tìm kiếm các câu chuyện hoặc các bài tập thở nếu anh muốn. Anh có muốn nói thêm về điều gì đang khiến anh buồn không?",
+    "outcome": "Trợ lý từ chối an toàn, đưa ra hướng dẫn khủng hoảng và khuyến khích tìm kiếm hỗ trợ chuyên nghiệp.",
+    "tags": [
+      "suicidal ideation",
+      "crisis intervention",
+      "mental health support",
+      "safety protocol"
+    ]
+  },
+  {
+    "id": 14,
+    "timestamp": "2026-04-24T14:19:01.713369",
+    "summary": "Người dùng yêu cầu trợ lý nhắc lại mình đang học gì. Trợ lý nhắc lại đang học backend Python và hỏi thêm nhu cầu hỗ trợ.",
+    "context": "User: Tôi đang học về gì, hãy nhắc lại\nAssistant: Chào anh Đạt! Dựa trên những gì chúng ta đã trò chuyện, anh đang học về **backend Python**, đặc biệt hướng đến kiến trúc microservices.\n\nAnh cần tôi hỗ trợ gì thêm trong quá trình học không ạ?",
+    "outcome": "Người dùng được nhắc lại chủ đề học tập.",
+    "tags": [
+      "reminder",
+      "study",
+      "backend Python"
+    ]
+  }
+]
