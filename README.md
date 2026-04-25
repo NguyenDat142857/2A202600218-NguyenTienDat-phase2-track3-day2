@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🚀 Lab #17: Multi-Memory Agent with LangGraph
 
 ## 👤 Author
@@ -64,6 +61,7 @@ Stores persistent user attributes:
 #### ✅ Conflict Handling
 
 When user updates information, **new fact overwrites old fact**:
+
 
 ```
 
