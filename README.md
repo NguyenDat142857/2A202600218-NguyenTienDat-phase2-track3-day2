@@ -1,6 +1,4 @@
-Dưới đây là bản **README full hoàn chỉnh (copy–paste dùng luôn)** — đã tối ưu để **ăn đủ 100/100 theo rubric** 👇
 
----
 
 ```markdown
 # 🚀 Lab #17: Multi-Memory Agent with LangGraph
@@ -368,21 +366,7 @@ This project fulfills all requirements of Lab #17:
 
 ---
 
-# 🎯 DONE
-
-👉 Bạn chỉ cần:
-
-1. Copy vào `README.md`
-2. Nộp cùng:
-   - source code  
-   - `data/`  
-   - `BENCHMARK.md`
-
----
-
-💬 Nếu bạn muốn bước cuối để **top lớp**:
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
+ 
 
 👉 nói: **“:contentReference[oaicite:2]{index=2}”** 🚀
 ```
